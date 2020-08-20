@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607921516547",
+    "firebase_url": "https://fir-login-f8eec.firebaseio.com",
+    "project_id": "fir-login-f8eec",
+    "storage_bucket": "fir-login-f8eec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607921516547:android:d1fcda0536796df5145e36",
+        "android_client_info": {
+          "package_name": "com.stubborn.firebaseinsert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607921516547-4es8pc9158d2rb889e717rsvlch1kuen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0ExJBSqSJkEPfzHRszULYkERmPnZb7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607921516547-4es8pc9158d2rb889e717rsvlch1kuen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
